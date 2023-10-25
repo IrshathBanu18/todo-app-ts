@@ -1,4 +1,6 @@
+
 import { ITodo } from "../types";
+
 import "../App.css";
 
 interface ITodoList {
